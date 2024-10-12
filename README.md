@@ -1,6 +1,6 @@
-# Modern Web Application
+# Bolting React Modern Web Application
 
-This project is a comprehensive web application built with React, TypeScript, and Supabase.
+This project is a comprehensive start for building an web application in Bolt.new, using React, TypeScript, and Supabase.
 
 ## Features
 
